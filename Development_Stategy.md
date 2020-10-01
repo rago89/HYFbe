@@ -88,7 +88,8 @@ Creating task and assigning issues:
 3. Change their list item into a link in the README.md
 4. The file will be assigned to **Rafael**
 
-- **Seventh issue** work on Introduce Preeti
-  **As a perfectionist, I want everything perfect :)**
+### Seventh issue work on Introduce Preeti
 
-> The file will be assigned to **Tahmina**
+1. **As a perfectionist, I want everything perfect :)**
+
+2. The file will be assigned to **Tahmina**
