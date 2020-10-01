@@ -19,70 +19,74 @@ A simple little website for the world to know a little about us.
 
 Creating task and assigning issues:
 
-- **First issue** work in a readme about the team
+### First issue work in a readme `about the team`
 
-* [ ] Create a branch named `about-the-team`
-* [ ] Create a file README.md - create the file - the group name as a main title - a paragraph introduction to the team - a list containing each team member's name (not links, just text)
-  > The file will be assigned to **Rafael**
+1. Create a branch named `about-the-team`
+2. Create a file README.md
+   - Create the file
+   - The group name as a main title
+   - A paragraph introduction to the team
+3. A list containing each team member's name (not links, just text)
 
-- **Second issue** work on Introduce Preeti
+4. The file will be assigned to **Rafael**
 
-**As a site visitor, I want to learn more about Preeti**
+### Second issue work on Introduce `Preeti`
 
-- [ ] Create a branch named `Preeti`
-- [ ] Create a file named Preeti.md
-  - [ ] add their name as the main title
-  - [ ] write a paragraph introduction
-  - [ ] create a link back to the README
-- [ ] change their list item into a link in the README.md
-  > The file will be assigned to **Brain**
-
----
-
-- **Third issue** work on Introduce **Brain**
-
-* [ ] Create a branch named `Brain`
-* [ ] Create a file named Brain.md
-  - [ ] add their name as the main title
-  - [ ] write a paragraph introduction
-  - [ ] create a link back to the README
-* [ ] change their list item into a link in the README.md
-  > The file will be assigned to **Tahmina**
+1. Create a branch named `Preeti`
+2. Create a file named Preeti.md
+   - Add their name as the main title
+   - Write a paragraph introduction
+   - Create a link back to the README
+3. change their list item into a link in the README.md
+4. The file will be assigned to **Brain**
 
 ---
 
-- **Fourth issue** work on Introduce **Tahmina**
+### Third issue work on Introduce `Brain`
 
-* [ ] Create a branch named `Tahmina`
-* [ ] Create a file named Preeti.md
-  - [ ] add their name as the main title
-  - [ ] write a paragraph introduction
-  - [ ] create a link back to the README
-* [ ] change their list item into a link in the README.md
-  > The file will be assigned to **Preeti**
-
----
-
-- **Fifth issue** work on Introduce **Rafael**
-
-* [ ] Create a branch named `Rafael`
-* [ ] Create a file named Rafael.md
-  - [ ] add their name as the main title
-  - [ ] write a paragraph introduction
-  - [ ] create a link back to the README
-* [ ] change their list item into a link in the README.md
-  > The file will be assigned to **HYFbe**
+1. Create a branch named `Brain`
+2. Create a file named Brain.md
+   - Add their name as the main title
+   - Write a paragraph introduction
+   - Create a link back to the README
+3. Change their list item into a link in the README.md
+4. The file will be assigned to **Tahmina**
 
 ---
 
-- **Sixth issue** work on Introduce **HYFbe**
+### Fourth issue work on Introduce `Tahmina`
 
-* [ ] Create a branch named `HYFbe`
-* [ ] Create a file named HYFbe.md
-  - [ ] add their name as the main title
-  - [ ] write a paragraph introduction
-  - [ ] create a link back to the README
-* [ ] change their list item into a link in the README.md -[ ] The file will be assigned to **Rafael**
+1. Create a branch named `Tahmina`
+2. Create a file named Preeti.md
+   - Add their name as the main title
+   - Write a paragraph introduction
+   - Create a link back to the README
+3. Change their list item into a link in the README.md
+4. The file will be assigned to **Preeti**
+
+---
+
+### Fifth issue work on Introduce `Rafael`
+
+1. Create a branch named `Rafael`
+2. Create a file named Rafael.md
+   - Add their name as the main title
+   - Write a paragraph introduction
+   - Create a link back to the README
+3. Change their list item into a link in the README.md
+4. The file will be assigned to **HYFbe**
+
+---
+
+### Sixth issue work on Introduce `HYFbe`
+
+1. Create a branch named `HYFbe`
+2. Create a file named HYFbe.md
+   - Add their name as the main title
+   - Write a paragraph introduction
+   - Create a link back to the README
+3. Change their list item into a link in the README.md
+4. The file will be assigned to **Rafael**
 
 - **Seventh issue** work on Introduce Preeti
   **As a perfectionist, I want everything perfect :)**
