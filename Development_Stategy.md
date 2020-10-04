@@ -74,23 +74,11 @@ Creating task and assigning issues:
    - Write a paragraph introduction
    - Create a link back to the README
 3. Change their list item into a link in the README.md
-4. The file will be assigned to **HYFbe**
+4. The file will be assigned to **Preeti**
 
 ---
 
-### Sixth issue work on Introduce `HYFbe`
-
-1. Create a branch named `HYFbe`
-2. Create a file named HYFbe.md
-   - Add their name as the main title
-   - Write a paragraph introduction
-   - Create a link back to the README
-3. Change their list item into a link in the README.md
-4. The file will be assigned to **Rafael**
-
----
-
-### Seventh issue work on Introduce Preeti
+### Seventh issue work Finishing details
 
 1. **As a perfectionist, I want everything perfect :)**
 
